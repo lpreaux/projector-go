@@ -31,7 +31,7 @@ func getPwd(opts *Opts) (string, error) {
 
 func getConfig(opts *Opts) (string, error) {
 	if opts.Config != "" {
-		return opts.Pwd, nil
+		return opts.Config, nil
 	}
 
 	configDir, err := os.UserConfigDir()
