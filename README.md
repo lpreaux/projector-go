@@ -1,5 +1,5 @@
-# Projector - Go - TP
+# Projector — Go
 
-Ce dépot fait partie des solutions d'un exercice venant du cours Polyglot Programming - TS, Go, and Rust de @ThePrimeagen sur le site FrontendMasters.
+Implémentation Go d'un exercice tiré du cours *Polyglot Programming — TypeScript, Go, and Rust* de ThePrimeagen sur Frontend Masters.
 
-Plus d'info sur le README.md du [dépot Typescript](https://github.com/lpreaux/projector-typescript/).
+La présentation complète de l'exercice se trouve dans le [dépôt TypeScript](https://github.com/lpreaux/projector-typescript/).
